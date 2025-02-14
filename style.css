@@ -261,7 +261,7 @@ body {
   position: absolute;
   width: 500px;
   top: -200px; /* Ajusta la posici�n seg�n sea necesario */
-  left: 80%; /* Centra horizontalmente */
+  left: 85%; /* Centra horizontalmente */
   transform: translateX(-50%);
   font-size: 40px;
   color: #D00000; /* Color rojo similar al de los corazones */
